@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP.LoadBalancer.WebAPI", "SP.LoadBalancer.WebAPI\SP.LoadBalancer.WebAPI.csproj", "{E8EFE7AE-A6E7-4B23-AA20-20FB0BF14B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP.LoadBalancer.MVC", "SP.LoadBalancer.MVC\SP.LoadBalancer.MVC.csproj", "{C8D04CC7-009B-4CB7-976A-27F3651E5475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8EFE7AE-A6E7-4B23-AA20-20FB0BF14B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8EFE7AE-A6E7-4B23-AA20-20FB0BF14B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8EFE7AE-A6E7-4B23-AA20-20FB0BF14B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8EFE7AE-A6E7-4B23-AA20-20FB0BF14B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D04CC7-009B-4CB7-976A-27F3651E5475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D04CC7-009B-4CB7-976A-27F3651E5475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D04CC7-009B-4CB7-976A-27F3651E5475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D04CC7-009B-4CB7-976A-27F3651E5475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C67B12ED-B0CC-4F29-B0AE-4E7EE6D498B7}
+	EndGlobalSection
+EndGlobal
